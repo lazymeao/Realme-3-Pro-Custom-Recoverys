@@ -1,0 +1,7 @@
+SkyHawk Recovery | Changelogs:
+
+Version: v3.1_A11 --
+- Local Display touch Fixed 
+( Thanks : @sasuke216 For Testing )
+- Support .Ozip Flashing 'without any errors'.
+- Added Recovery Fastbootd mode.

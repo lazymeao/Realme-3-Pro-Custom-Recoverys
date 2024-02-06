@@ -1,0 +1,13 @@
+TeamWin Recovery | Changelogs:
+
+Version: 3.7.0_A14 --
+- Local Display touch Fixed 
+( Thanks : @sasuke216 For Testing )
+- Support .Ozip Flashing 'without any errors'.
+- Added Recovery Fastbootd mode.
+
+Version: 3.7.0_A11 --
+- Local Display touch Fixed 
+( Thanks : @sasuke216 For Testing )
+- Support .Ozip Flashing 'without any errors'.
+- Added Recovery Fastbootd mode.

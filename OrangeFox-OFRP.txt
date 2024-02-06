@@ -1,0 +1,23 @@
+Oragefox Recovery | Changelogs:
+
+Version: R12.1_A14 --
+- Local Display touch Fixed 
+( Thanks : @sasuke216 For Testing )
+- Added new QuickBootRepair Backup
+{( How to Use/what's this?: ( it's do backup { boot,dtbo,recovery,vbmeta } in one click ) ex:- if you flash any new custom kernel, recovery , vbmeta and if it's break the system suddenly then solution is restore QuickBootRepair.
+'when will we backup QuickBootRepair?'
+ans: if you are recently flashed rom and its booted system perfectly. then you can backup QuickBootRepair. )}
+- removed recovery replace script.
+- Support .Ozip Flashing 'without any errors'.
+- Added Recovery Fastbootd mode.
+
+Version: R11.1_A11 --
+- Local Display touch Fixed 
+( Thanks : @sasuke216 For Testing )
+- added auto delete 'recovery replace script' from vendor (stockroms)
+- Added new QuickBootRepair Backup
+{( How to Use/what's this?: ( it's do backup { boot,dtbo,recovery,vbmeta } in one click ) ex:- if you flash any new custom kernel, recovery , vbmeta and if it's break the system suddenly then solution is restore QuickBootRepair.
+'when will we backup QuickBootRepair?'
+ans: if you are recently flashed rom and its booted system perfectly. then you can backup QuickBootRepair. )}
+- Support .Ozip Flashing 'without any errors'.
+- Added Recovery Fastbootd mode.
